@@ -1,2 +1,4 @@
-# Transient_BLDC
+## Transient_BLDC
 A detailed simulation model of a trapezoidal commutation BLDC PMSM electric motor with field weakening for driving transient or varied load speed or torque load cycles. 
+
+## PMSM trapeziodel back-emf model for transient load cycles speed control
