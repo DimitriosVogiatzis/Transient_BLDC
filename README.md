@@ -12,7 +12,7 @@ A 6-step commutation, surface mounted permanent magnet, Brushless Direct Current
 This models simulates:
 1. a BLDC electric motor model,
 2. the 6-step commutation and power electronics
-3. an equivalent circit battery model
+3. an equivalent circuit battery model
 
 ## Detailed model explanation
 See ModelInstructions.pdf for a step-by-step guide through the creation of the simulation model and the equations being solved.
