@@ -18,7 +18,7 @@ This models simulates:
 See ModelInstructions.pdf for a step-by-step guide through the creation of the simulation model and the equations being solved.
 
 ## How to run the model
-1. Open "transient_BLDC.m"
+1. Open "transient_bldc.m"
 2. Select input data of BLDC, Shaft, Power electronics or run with defaults
 3. Run the script and select Load cycle between "Max_Power Ramp-Up" and "Transient Load cycle"
 4. Run the Siimulink model
