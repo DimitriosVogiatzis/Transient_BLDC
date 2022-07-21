@@ -25,10 +25,10 @@ See ModelInstructions.pdf for a step-by-step guide through the creation of the s
 ![image](https://user-images.githubusercontent.com/65401171/176876168-1eb74365-61e6-42e2-9305-d6392d845884.png)
 
 ## Contributors:
-1. [Dimitrios Vogiatzis]
+[Dimitrios Vogiatzis]
 
 ## References - Acknowledgements
-This work was initialized as an Academic project for Technical University of Graz, Electrical Engineering Department, Electric Drives and Machines Institute and the course of "SIMULATION OF ELECTRIC MACHINE & DRIVES" of [Krischan, Klaus], [Seebacher, Roland] and continued as an individual research project for my PhD in TU Graz.
+This work was initialized as an academic project for Technical University of Graz, Electrical Engineering Department, Electric Drives and Machines Institute and course "SImulation of electric machines and drives" of [Krischan, Klaus], [Seebacher, Roland]. The model continued as an individual research project for my PhD study at Technical University of Graz.
 
 ## Copyrights
 [Creative Commons]
